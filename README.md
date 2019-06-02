@@ -7,3 +7,7 @@
 　　作品没有底稿，因此咱会每隔一个星期更新一次（每周五/六/日）。因为本人属鸽子，所以很有可能没有提前说明就鸽掉。不过因为大概不会有什么人气，所以鸽掉也无所谓（笑  
 
 　　剧透我就不放在这里啦。请大家期待www  
+</br>
+</br>
+</br>
+[进入阅读](https://github.com/wuyuema/Zeul-has-to-continue-his-magic-lesson-today/blob/master/1-1.md)
