@@ -1,0 +1,62 @@
+{
+    "USC": {
+        "full_name": "The United States of Columbiana", 
+        "position": "北美", 
+        "capital": "", 
+        "feature": [
+            "有钱", 
+            "外交矛盾", 
+            "内政不稳定"
+        ]
+    }, 
+    "Castella": {
+        "full_name": "", 
+        "position": "南美", 
+        "capital": "Rodrigues", 
+        "feature": [
+            "林地面积大", 
+            "贫穷"
+        ]
+    }, 
+    "CE": {
+        "full_name": "Civitas Ecclesiae", 
+        "position": "欧洲", 
+        "capital": "The Cathedral", 
+        "feature": [
+            "教堂", 
+            "宗教", 
+            "神秘", 
+            "拉丁", 
+            "闭塞、落后"
+        ]
+    }, 
+    "Xenia": {
+        "position": "东亚", 
+        "capital": "", 
+        "feature": [
+            "历史悠久", 
+            "神话多，文明厚重", 
+            "特产精致"
+        ]
+    }, 
+    "Florace": {
+        "position": "欧洲", 
+        "capital": {
+            "name": "H.E.A.V.E.N.", 
+            "full_name": "", 
+            "feature": [
+                "浮空", 
+                "没多少人口，住着的都是重要人物"
+            ]
+        }, 
+        "feature": [
+            "科技发达", 
+            "政治友好", 
+            "地球联合参议仲裁院总部", 
+            "环境优美，草木丛生的鲜花国家"
+        ]
+    }, 
+    "Atlantica": {
+        
+    }
+}
